@@ -1,18 +1,19 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://Ginger-Tec.github.io
 
-languageCode: en-us
-title: "John's Blog"
+languageCode: ko
+title: "Ginger-Tec's Blog"
 theme: "toha"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
+#  ko:
+#    languageName: 한국어
+#    weight: 1
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
-    weight: 3
+
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -41,17 +42,17 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/background5.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/main-logo2.png
+    inverted: /images/site/inverted-logo2.png
+    favicon: /images/site/favicon2.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/Ginger-Tec/Ginger-Tec.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -125,10 +126,10 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       # Google Analytics
       google:
-        id: G-H4LBG7NDFZ
+        id:
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
@@ -184,7 +185,7 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
