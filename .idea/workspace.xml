@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df6f6afe-504b-44ac-ab1d-72393ab297fd" name="변경" comment="" />
+    <list default="true" id="df6f6afe-504b-44ac-ab1d-72393ab297fd" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/_index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/bash/_index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/bash/basic/index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/go/_index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/go/advanced/_index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/go/advanced/files/index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/go/basic/_index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/go/basic/flow-control/indexbn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/go/basic/introduction/index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/notes/go/basic/types/index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/_index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/category/_index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/category/sub-category/_index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/category/sub-category/rich-content/index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/introduction/index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/markdown-sample/index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/shortcodes/index.bn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/author.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/sections/about.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/sections/accomplishments.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/sections/achievements.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/sections/education.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/sections/experiences.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/sections/projects.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/sections/recent-posts.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/sections/skills.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bn/site.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/en/author.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en/author.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/en/sections/about.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en/sections/about.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/en/sections/accomplishments.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en/sections/accomplishments.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/en/sections/achievements.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en/sections/achievements.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/en/sections/education.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en/sections/education.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/en/sections/experiences.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en/sections/experiences.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/en/sections/projects.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en/sections/projects.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/en/sections/publications.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en/sections/publications.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/en/sections/skills.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/en/sections/skills.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +61,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/seunghan/Documents/Ginger-Tec.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -31,6 +70,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -39,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671432519919</updated>
-      <workItem from="1671432520939" duration="1126000" />
+      <workItem from="1671432520939" duration="1801000" />
     </task>
     <servers />
   </component>
