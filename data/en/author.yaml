@@ -1,6 +1,6 @@
 # some information about you
-name: "Mr.Ginger(생강씨)"
-nickname: "Ginger-Tec"
+name: "Mr. Ginger(생강씨)"
+nickname: "진저텍"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Blog, "
 image: "images/author/ginger-tec.png"
