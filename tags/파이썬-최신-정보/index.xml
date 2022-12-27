@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>파이썬 최신 정보 on Ginger-Tec's Blog</title><link>https://Ginger-Tec.github.io/tags/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%B5%9C%EC%8B%A0-%EC%A0%95%EB%B3%B4/</link><description>Recent content in 파이썬 최신 정보 on Ginger-Tec's Blog</description><generator>Hugo -- gohugo.io</generator><language>ko</language><lastBuildDate>Mon, 26 Dec 2022 23:09:11 +0900</lastBuildDate><atom:link href="https://Ginger-Tec.github.io/tags/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%B5%9C%EC%8B%A0-%EC%A0%95%EB%B3%B4/index.xml" rel="self" type="application/rss+xml"/><item><title>파이썬의 현재</title><link>https://Ginger-Tec.github.io/posts/expert-python/01-present-of-python/</link><pubDate>Mon, 26 Dec 2022 23:09:11 +0900</pubDate><guid>https://Ginger-Tec.github.io/posts/expert-python/01-present-of-python/</guid><description>아주 오랫동안 파이썬의 가장 중요한 특성은 상호운영성(interoperability) 입니다.
+그러나 이제는 많은 모던 프로그래밍 언어도 유사한 상호운영성을 제공하기에 큰 장점은 아니게 되었습니다.
+오늘날 프로그래머들에게 더욱 중요한 것은 바로 생산성(productivity) 입니다.
+파이썬의 생산성을 높여주는 큰 축의 하나는 공식 파이썬 패키지 인덱스(Official Python Package Index, OPPI)입니다.
+OPPI는 거대한 소프트웨어 라이브러리 및 프레임워크의 보고이며, 명확하면서도 간결한 문법으로 사용할 수 있기에 소프트웨어 작성과 유지보수에 드는 시간과 노력을 현저히 줄여줍니다.
+바로 이 점이 프로그래밍 생산성 영역에서 파이썬의 가치를 더욱 높여줍니다.</description></item></channel></rss>
